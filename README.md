@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**ardasoyturk/ardasoyturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+I'm Arda, 14-year-old student interested in programming. I play mostly with JavaScript/Node.js. I'm also learning Vue and TypeScript. And I will learn Dart (for Flutter) and C# _or any other language_. If you wanna reach me;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  :small_orange_diamond:
+  <a href="https://ardasoyturk.com" target="_blank">Website (soon, i guess)</a>
+  :small_orange_diamond:
+  <a href="https://twitter.com/soyturkarda_" target="_blank">Twitter</a>
+  :small_orange_diamond:
+  <a href="https://discord.com/users/403225819222245377" target="_blank">Discord</a>
+  :small_orange_diamond:
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardasoyturk&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+</p>

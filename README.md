@@ -6,8 +6,6 @@ I'm Arda, 14-year-old student interested in programming. I play mostly with Java
 
 <p align="center">
   :small_orange_diamond:
-  <a href="https://ardasoyturk.com" target="_blank">Website (soon, i guess)</a>
-  :small_orange_diamond:
   <a href="https://twitter.com/soyturkarda_" target="_blank">Twitter</a>
   :small_orange_diamond:
   <a href="https://discord.com/users/403225819222245377" target="_blank">Discord</a>

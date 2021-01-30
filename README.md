@@ -13,5 +13,5 @@ I'm Arda, a 14-year-old student interested in programming. I mostly play with Ja
 </p>
 
 <p align="center">
-  <img src="https://github-widget.ardasoyturk.workers.dev/" width="%100" height="150px" alt="stats" />
+  <img src="https://github-widget.ardasoyturk.workers.dev/" alt="My GitHub Stats" />
 </p>

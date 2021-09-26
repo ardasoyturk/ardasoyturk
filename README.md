@@ -2,7 +2,7 @@
 
 <hr>
 
-I'm Arda, a 15-year-old student interested in programming. I mostly play with JavaScript/Node.js. Even though I'm focused on learning Vue and TypeScript, I'm looking forward to learning any other programming language. If you ever need to contact me;
+I'm Arda, a 15-year-old student interested in programming. I mostly play with Vue and Typescript/Node.js. Even though I'm focused on learning Flutter and Dart, I'm looking forward to learning any other programming language. If you ever need to contact me;
 
 <p align="center">
   :small_orange_diamond:
